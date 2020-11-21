@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-21T09:36:25 IST" name="Suite1" finished-at="2020-11-21T09:36:25 IST" duration-ms="25">
+    <groups>
+    </groups>
+    <test started-at="2020-11-21T09:36:25 IST" name="Basic String and Arithmatic Operations" finished-at="2020-11-21T09:36:25 IST" duration-ms="25">
+      <class name="org.wso2.BasicOperation.StringOperations">
+        <test-method signature="TestAllCaps()[pri:0, instance:org.wso2.BasicOperation.StringOperations@59474f18]" started-at="2020-11-21T09:36:25 IST" name="TestAllCaps" finished-at="2020-11-21T09:36:25 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAllCaps -->
+        <test-method signature="TestSubstring()[pri:2, instance:org.wso2.BasicOperation.StringOperations@59474f18]" started-at="2020-11-21T09:36:25 IST" name="TestSubstring" finished-at="2020-11-21T09:36:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSubstring -->
+        <test-method signature="TestToLowerCase()[pri:1, instance:org.wso2.BasicOperation.StringOperations@59474f18]" started-at="2020-11-21T09:36:25 IST" name="TestToLowerCase" finished-at="2020-11-21T09:36:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestToLowerCase -->
+      </class> <!-- org.wso2.BasicOperation.StringOperations -->
+      <class name="org.wso2.BasicOperation.ArithmeticOperations">
+        <test-method signature="TestAddition()[pri:0, instance:org.wso2.BasicOperation.ArithmeticOperations@65fb9ffc]" started-at="2020-11-21T09:36:25 IST" name="TestAddition" finished-at="2020-11-21T09:36:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAddition -->
+        <test-method signature="TestSubstraction()[pri:0, instance:org.wso2.BasicOperation.ArithmeticOperations@65fb9ffc]" started-at="2020-11-21T09:36:25 IST" name="TestSubstraction" finished-at="2020-11-21T09:36:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSubstraction -->
+        <test-method signature="TesMultiplication()[pri:0, instance:org.wso2.BasicOperation.ArithmeticOperations@65fb9ffc]" started-at="2020-11-21T09:36:25 IST" name="TesMultiplication" finished-at="2020-11-21T09:36:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TesMultiplication -->
+      </class> <!-- org.wso2.BasicOperation.ArithmeticOperations -->
+    </test> <!-- Basic String and Arithmatic Operations -->
+  </suite> <!-- Suite1 -->
+</testng-results>
